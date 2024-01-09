@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # node.js-random-color-generator
 
 =======
@@ -13,4 +11,3 @@ TO DOS
 - [x] create a color block
 - [x] randomize the color selection
 - [x] change the color hue/luminosity
-  > > > > > > > fa9d3cb (new file: README.md)
