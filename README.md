@@ -1,6 +1,5 @@
 # node.js-random-color-generator
 
-=======
 creating a random color generator
 
 TO DOS
